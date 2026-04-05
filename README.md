@@ -42,7 +42,7 @@ apt update &apt upgrade
 apt install python git -y # or python3
 
 # Download 
-git clone 
+git clone https://github.com/Ruwantha-OFFICIAL/Z-ROCK.git
 #requments install 
 # can you  install environment setups like venv
 pip install -r requirements.txt 
