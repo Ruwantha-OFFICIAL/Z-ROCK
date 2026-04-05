@@ -36,7 +36,7 @@ Most ZIP crackers are slow because they use a single CPU thread. **Z-ROCK** is e
 ```bash
 #Termux 
 pkg update && pkg upgrade
-pkg install python
+pkg install python git
 #kali ubuntu 
 apt update && apt upgrade
 apt install python git -y # or python3
